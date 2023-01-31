@@ -65,3 +65,21 @@ section#redes-sociais img:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.596);
     transition: transform .3s, border .3s;
 }
+
+@media screen and (max-width:500px) {
+
+section#redes-sociais img {
+   border-radius: 10px;
+   
+    margin: 8px;
+   
+   
+}
+section#redes-sociais {
+    display: flex;
+    
+    
+}
+}
+ 
+
