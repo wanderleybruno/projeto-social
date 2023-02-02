@@ -86,11 +86,20 @@ section#redes-sociais {
     flex-direction:row;
     
     }
+
+    section#telefone {
+        position: absolute;
+        margin-top: 60px;
+    
+    }
+
+  
  
 }
 section#telefone {
     position: absolute;
     margin-top: 60px;
+    
    
 }
 
